@@ -8,4 +8,4 @@
 3. Day 3 Docker Compose
 
 
-![Image Alt Text](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![Image Alt Text](https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg)
